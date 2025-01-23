@@ -1,0 +1,189 @@
+/* Inicio Estilo Global*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.texto_destaque {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.geral {
+    padding: 120px 80px;
+}
+
+h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px;
+}
+
+/* Seção Banner */
+.secao_banner {
+    background-image: url(img/Diversos/banner-topo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.secao_topo {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.imagem_topo {
+    width: 35px;
+    margin-right: 5px;
+}
+
+.nome_topo {
+    font-size:  30px;
+    margin: 0 0 5px;
+}
+
+.slogan_topo {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.secao_titulo {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+}
+
+.secao_titulo h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 auto 40px;
+}
+
+.link_topo {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.link_topo a {
+    color: #fff;
+}
+
+.link_topo img {
+    width: 20px;
+}
+
+/* Seção serviços */
+.secao_listas {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+
+.secao_listas ul {
+    list-style-type: square;
+}
+
+.secao_listas li {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+.secao_imagem_servicos {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.secao_imagem_servicos img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+/* Seção Faixas */
+.secao_faixas {
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.texto_faixa {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.links_faixas {
+    text-align: center;
+}
+
+.links_faixas a {
+    margin: 0 20px;
+}
+
+.links_faixas img {
+    width: 50px;
+    height: 50px;
+}
+
+/* seção Marcas */
+.secao_imagem_marcas {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.secao_imagem_marcas img {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+
+/* Seção Mapa */
+.secao_mapa {
+    width: 100%;
+    align-items: center;
+}
+
+.texto_mapa {
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px;
+}
+
+.mapa {
+    width: 800px;
+    height: 450px;
+}
+
+/* Seção Rodapé */
+.secao_rodape {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+
+.texto_rodape {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+
+.secao_rodape img {
+    width: 50px;
+    height: 50px;
+}
