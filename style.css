@@ -168,6 +168,7 @@ h3 {
 .mapa {
     width: 800px;
     height: 450px;
+    text-align: center;
     margin: 0 auto;
 }
 
