@@ -155,7 +155,7 @@ h3 {
 /* Seção Mapa */
 .secao_mapa {
     width: 100%;
-    align-items: center;
+    text-align: center;
 }
 
 .texto_mapa {
@@ -168,8 +168,7 @@ h3 {
 .mapa {
     width: 800px;
     height: 450px;
-    text-align: center;
-    margin: 0 auto;
+    margin: auto;
 }
 
 /* Seção Rodapé */
