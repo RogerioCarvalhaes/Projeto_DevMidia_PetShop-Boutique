@@ -1,0 +1,42 @@
+@media (max-width: 800px) {
+    /* Banner */
+    .secao_titulo h1 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    /* Seção Faixas */
+    .texto_faixa {
+        font-size: 30px;
+        margin: 0 auto 30px auto;
+        padding: 0 10px;
+    }
+
+    .links_faixas img {
+        width: 40px;
+        height: 40px;
+        margin: 0 10px;
+    }
+
+    /* seção Marcas */
+    .secao_imagem_marcas img {
+        width: 70px;
+        height: 70px;
+        margin: 0 10px 20px 10px;
+    }
+
+    /* Seção Mapa */
+    .texto_mapa {
+        font-size: 18px;
+        margin: 0 0 30px;
+        padding: 0 10px;
+    }
+
+    .mapa {
+        width: 100%;
+        height: auto;
+    }
+}
